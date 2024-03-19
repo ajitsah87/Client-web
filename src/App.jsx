@@ -2,7 +2,7 @@ import Hero from "./Components/Hero"
 import Learn from "./Components/Learn"
 import Navbar from "./Components/Navbar"
 import Skills from "./Components/Skills"
-import Support from "./Components/Support"
+// import Support from "./Components/Support"
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
      <Hero/>
      <Skills/>
      <Learn/>
-     <Support/>
+     {/* <Support/> */}
     </>
   )
 }
