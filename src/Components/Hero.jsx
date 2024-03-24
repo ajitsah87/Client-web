@@ -16,24 +16,24 @@ function Hero() {
           <div className="flex-1 pt-10 ">
             <div className="flex gap-16 max-xl:gap-10 max-sm:gap-4 items-center justify-center">
               <div>
-                <div className="bg-[#66c4ff]  h-56   rounded-2xl mb-20 max-md:mb-10 max-md:h-40    ">
+                <div className="bg-[#66c4ff]  h-56   rounded-2xl mb-20 max-md:mb-10 max-md:h-40  max-sm:h-32   ">
                   <img
-                    className="  object-contain h-[120%] w-full  -translate-y-[45px] max-md:-translate-y-8 "
+                    className="  object-contain h-[120%] w-full  -translate-y-[45px] max-md:-translate-y-8 max-sm:-translate-y-[26px] "
                     src="/2.png"
                     alt=""
                   />
                 </div>
-                <div className="bg-[#F0F8FF]   h-56  mb-10  rounded-2xl max-md:h-40  ">
+                <div className="bg-[#F0F8FF]   h-56  mb-10  rounded-2xl max-md:h-40  max-sm:h-32  ">
                   <img
-                    className="object-contain h-[120%] w-full  -translate-y-[45px]  max-md:-translate-y-8 "
+                    className="object-contain h-[120%] w-full  -translate-y-[45px]  max-md:-translate-y-8 max-sm:-translate-y-[26px] "
                     src="/3.png"
                     alt=""
                   />
                 </div>
               </div>
-              <div className="bg-[#CCCCFF] h-96 rounded-2xl max-md:h-72 ">
+              <div className="bg-[#CCCCFF] h-96 rounded-2xl max-md:h-72 max-sm:h-44 ">
                 <img
-                  className="object-contain h-[120%] w-full  -translate-y-[76px] max-md:-translate-y-[57px] "
+                  className="object-contain h-[120%] w-full  -translate-y-[76px] max-md:-translate-y-[57px] max-sm:-translate-y-[35px] "
                   src="/1.png"
                   alt=""
                 />

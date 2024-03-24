@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "gradient" : "linear-gradient(transparent 50%, #AFDBF5)"
+        "gradient" : "linear-gradient(transparent 50%, #AFDBF5)",
+        "main" : "linear-gradient(transparent 50%, #e17dcd)"
 },
 
     },
