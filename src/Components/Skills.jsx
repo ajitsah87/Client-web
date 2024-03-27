@@ -27,7 +27,7 @@ function Skills() {
   ];
 
   return (
-    <div className="pb-20">
+    <div className="pb-20 ">
       <div className="flex justify-center flex-wrap gap-20 max-md:gap-16 mx-28 max-lg:mx-10">
         <h2 className="w-96 max-lg:w-full max-lg:block text-wrap text-4xl font-semibold max-lg:text-center max-lg:mb-10">
           Get Everything You Need!
